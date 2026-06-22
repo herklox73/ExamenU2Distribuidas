@@ -1,7 +1,7 @@
 # Northwind App — Examen U2
 
 ## Nombre del estudiante
-Carlos Vicente Calapucha Nacata
+Carlos Vicente Calapucha Ñacata
 
 ## Nombre del proyecto
 Northwind App — Gestion de productos con autenticacion Google
